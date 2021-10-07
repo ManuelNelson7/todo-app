@@ -47,6 +47,10 @@ h1 {
     opacity: 0.4;
 }
 
+.todo-text {
+    cursor: pointer;
+}
+
 .todo-form {
     margin-bottom: 32px;
 }
