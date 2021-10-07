@@ -10,5 +10,5 @@
 
 ## Live site
 
- [Click para probar mi app](https://manuelnelson7.github.io/todo-app/)
+ [Click para probar mi app](https://todoapp-manuelnelson.netlify.app/)
 
